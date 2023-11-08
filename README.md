@@ -1,1 +1,2 @@
 # AI-Enabled-Zoom-Extension
+"CleverZoom" is an AI-enabled Zoom extension that forecasts bandwidth availability during video calls and optimizes the transmission of video frames. It intelligently transfers only those frames with significant changes, ensuring a smooth video conferencing experience while conserving bandwidth. This project enhances video call quality and productivity, particularly in low-bandwidth or variable network conditions, showcasing the practical application of AI in real-time scenarios.
